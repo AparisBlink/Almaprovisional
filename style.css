@@ -601,7 +601,7 @@ and (max-device-width : 480px) {
     .coursetag_almadieci.content_type_clase_Almaprovisional #actividad .content .header .title .area {
         display: inline-block;
         background: #DA3D96;
-        padding: 5px 10px 5px 5px;
+        padding: 5px 5px 5px 5px;
         -webkit-border-radius: 7px;
         -moz-border-radius: 7px;
         border-radius: 7px;
@@ -760,9 +760,17 @@ and (max-device-width : 480px) {
 }
 
 /*ENFASIS*/
+.edit .bck-enfasis1,
+.edit .bck-enfasis2,
+.edit .bck-enfasis3,
+.edit .bck-enfasis4,
+.edit .bck-enfasis12,
+.edit .bck-enfasis13 {
+    margin-left: 0;
+}
 /*Énfasis 1*/
 .bck-enfasis1 {
-    font-size: 25px;
+    font-size: 24px;
     font-family: 'Conv_playtime-webfont', cursive;
     font-weight: 700;
     color: #da3d96;
@@ -770,13 +778,14 @@ and (max-device-width : 480px) {
     text-align: left;
     margin-right: 4px;
     position: relative;
-    width: 30px;
+    width: 35px;
     display: inline-block;
     text-align: center;
 }
+
 /*Énfasis 2*/
 .bck-enfasis2 {
-    font-size: 25px;
+    font-size: 24px;
     font-family: 'Conv_playtime-webfont', cursive;
     font-weight: 700;
     color: #92CD8D;
@@ -784,14 +793,14 @@ and (max-device-width : 480px) {
     text-align: left;
     margin-right: 4px;
     position: relative;
-    width: 30px;
+    width: 35px;
     text-align: center;
     display: inline-block;
 }
 
 /*Énfasis 3*/
 .bck-enfasis3 {
-    font-size: 25px;
+    font-size: 24px;
     font-family: 'Conv_playtime-webfont', cursive;
     font-weight: 700;
     color: #6DC1C3;
@@ -799,13 +808,13 @@ and (max-device-width : 480px) {
     text-align: left;
     margin-right: 4px;
     position: relative;
-    width: 30px;
+    width: 35px;
     text-align: center;
     display: inline-block;
 }
 /*Énfasis 4*/
 .bck-enfasis4 {
-    font-size: 25px;
+    font-size: 24px;
     font-family: 'Conv_playtime-webfont', cursive;
     font-weight: 700;
     color: #FED65D;
@@ -813,13 +822,13 @@ and (max-device-width : 480px) {
     text-align: left;
     margin-right: 4px;
     position: relative;
-    width: 30px;
+    width: 35px;
     text-align: center;
     display: inline-block;
 }
 /*Enfasis 12 - Número azul*/
 .bck-enfasis12 {
-    font-size: 25px;
+    font-size: 24px;
     font-family: 'Conv_playtime-webfont', cursive;
     font-weight: 700;
     color: #0e5ba5;
@@ -827,13 +836,13 @@ and (max-device-width : 480px) {
     text-align: left;
     margin-right: 4px;
     position: relative;
-    width: 30px;
+    width: 35px;
     text-align: center;
     display: inline-block;
 }
 /*Énfasis 13 - Número rojo*/
 .bck-enfasis13 {
-    font-size: 25px;
+    font-size: 24px;
     font-family: 'Conv_playtime-webfont', cursive;
     font-weight: 700;
     color: #da3832;
@@ -841,7 +850,7 @@ and (max-device-width : 480px) {
     text-align: left;
     margin-right: 4px;
     position: relative;
-    width: 30px;
+    width: 35px;
     text-align: center;
     display: inline-block;
 }
@@ -1113,7 +1122,7 @@ and (max-device-width : 480px) {
 .bck-box.box-10 .bck-title {
     font-family: 'Conv_playtime-webfont', cursive;
     font-size: 29px;
-    padding-left: 84px;
+    padding-left: 92px;
     font-weight: 800;
 }
 
@@ -1189,7 +1198,7 @@ and (max-device-width : 480px) {
     font-family: 'Conv_playtime-webfont', cursive;
     color: #da3d96;
     margin-left: 0;
-    font-size: 28px;
+    font-size: 24px;
  }
 
 /*Lista 2*/
@@ -1209,7 +1218,7 @@ padding-left: 0px;
 .coursetag_almadieci .cke_contents ol.bck-ol2 li:before {
     font-family: 'Conv_playtime-webfont', cursive;
     color: #6DC1C3;
-    font-size: 28px;
+    font-size: 24px;
     margin-left: 0;
     background: none;
     position: relative;
@@ -1233,7 +1242,7 @@ padding-left: 0px;
     font-family: 'Conv_playtime-webfont', cursive;
     color: #92CD8D;
     margin-left: 0;
-    font-size: 28px;
+    font-size: 24px;
  }
 
   /*Lista 4*/
@@ -1254,7 +1263,7 @@ padding-left: 0px;
     font-family: 'Conv_playtime-webfont', cursive;
     color: #FED65D;
     margin-left: 0;
-    font-size: 28px;
+    font-size: 24px;
  }
 
  .content ol.bck-ol8 li:before,
@@ -1262,7 +1271,7 @@ padding-left: 0px;
     font-family: 'Conv_playtime-webfont', cursive;
     color: #0e5ba5;
     margin-left: 0;
-    font-size: 28px;
+    font-size: 24px;
  }
 
  .content ol.bck-ol9 li:before,
@@ -1270,7 +1279,7 @@ padding-left: 0px;
      font-family: 'Conv_playtime-webfont', cursive;
      color: #da3832;
      margin-left: 0;
-     font-size: 28px;
+     font-size: 24px;
   }
 
 
@@ -1298,7 +1307,12 @@ padding-left: 0px;
     -moz-border-radius: 5px;
     border-radius: 5px;
     vertical-align: middle;
-    font-weight: 800;
+    display: inline-block;
+    width: auto;
+    min-width: 40px;
+    text-align: center;
+    height: 30px;
+    padding-top: 3px;
  }
   .content ol.bck-ol6 li,
 .cke_contents ol.bck-ol6 li {
@@ -1320,7 +1334,12 @@ padding-left: 0px;
     -moz-border-radius: 5px;
     border-radius: 5px;
     vertical-align: middle;
-    font-weight: 800;
+    display: inline-block;
+    width: auto;
+    min-width: 40px;
+    text-align: center;
+    height: 30px;
+    padding-top: 3px;
  }
   .content ol.bck-ol7 li,
 .cke_contents ol.bck-ol7 li {
