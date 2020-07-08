@@ -167,7 +167,7 @@ body.user_demo .content-wrapper {
 }
 .content_type_clase_Almaprovisional .logo-publisher:before {
     content: " ";
-    background-image: url(logoALMA.png);
+    background-image: url(/themes/responsive/assets/styles/alma_newitalianespresso/logoALMA.png);
     height: 36px;
     background-repeat: no-repeat;
     width: 100px;
