@@ -65,6 +65,9 @@
 				{ name: 'Celda 2', element: 'td', attributes: { 'class': 'bck-td2' } },
 				{ name: 'Celda 3', element: 'td', attributes: { 'class': 'bck-td3' } },
 				{ name: 'Celda 4', element: 'td', attributes: { 'class': 'bck-td4' } },
+				
+				{ name: 'Popup 1', type: 'widget', widget: 'blink_popover', attributes: { 'class': 'bck-popup bck-popup-1' } },
+				{ name: 'Popup 2', type: 'widget', widget: 'blink_popover', attributes: { 'class': 'bck-popup bck-popup-2' } },
 
 				{ name: 'Caja 1', type: 'widget', widget: 'blink_box', attributes: { 'class': 'box-1' } },
 				{ name: 'Caja 2 Bombilla', type: 'widget', widget: 'blink_box', attributes: { 'class': 'box-2' } },
